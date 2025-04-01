@@ -27,4 +27,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: yourusername/tune_ai:latest
+          tags: qnguyen10/tune_ai:latest
